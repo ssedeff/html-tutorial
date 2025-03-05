@@ -1,0 +1,40 @@
+header{
+    background-color: #075192;
+    padding-top: 20px;
+}
+.gri-arkaplan{
+    background-color: #ecf1f5;
+}
+#ana-menu{
+    background-color: #075192;
+}
+#ana-menu .nav-link{
+    color: white;
+}
+#meb-baslik{
+    color: #075192;
+
+}
+#okul-baslik{
+    color: #1295d5;
+}
+#baglantilar .list-group-item{
+    color: #ecf1f5;
+    background-color: #075192;
+}
+#liste-baslik{
+    height: 70px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+.slider-aciklama{
+    background-color: black;
+    padding: 10px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 20px;
+    height: 10px;
+    background-color: #1295d5;
+}
